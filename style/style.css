@@ -7,6 +7,7 @@
 .search-bar{
   text-align: center;
   margin: 2%;
+  padding-top: 2%;
 }
 .search-bar input{
   width: 60%;
@@ -14,5 +15,13 @@
 .video-details .details{
   margin: 10px 0px;
   padding: 10px;
-  border: 1px solid grey;
+  border: 1px solid #e0dbdb;
+  background-color: white;
+}
+div.container{
+  background-color: #efefe5;
+  font-family: 'Spectral', serif;
+  padding-bottom: 2%;
+  border: 10px solid #969292;
+  margin-top: 2%;
 }
